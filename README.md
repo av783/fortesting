@@ -1,2 +1,2 @@
 # fortesting
-It contains codes used for testing and practicing topics. 
+It contains codes which are being used for testing and practicing topics. 
